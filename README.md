@@ -68,4 +68,4 @@ Each `pr/` branch holds one part of this topic on top of upstream and says in it
 
 | Branch | Based on |
 |---|---|
-| `pr/sip-phone` | `pr/audio-task-priority` of p1ngb4ck/esphome-audio, `pr/network-priority` of p1ngb4ck/esphome-network |
+| `pr/sip-phone` | `pr/resampler-routing` of p1ngb4ck/esphome-audio, `pr/network-priority` of p1ngb4ck/esphome-network |
