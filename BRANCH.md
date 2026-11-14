@@ -6,5 +6,5 @@ Change of this branch: `sip_phone`: SIP phone (account registration, Opus / G.72
 
 Based on these branches, whose changes it holds and builds on:
 
-- `pr/audio-task-priority` of p1ngb4ck/esphome-audio: decode and resample tasks at priority 2, above the main loop
+- `pr/resampler-routing` of p1ngb4ck/esphome-audio: resampler speaker with a list of outputs, microphone with several sources, both switched at runtime (selects), USB audio outputs and sources added and removed at runtime, microphone `num_channels`
 - `pr/network-priority` of p1ngb4ck/esphome-network: `network` `priority` changeable at runtime and saved, `on_active_interface`, the default route on the first connected interface in that order
